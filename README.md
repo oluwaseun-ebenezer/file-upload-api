@@ -1,6 +1,6 @@
 # File API
 
-File API is a NodeJS (express) POST endpoint that accepts an array of URLs, retrieves and uploads the file faster, optimally and efficiently to an S3 bucket.
+File API is a NodeJS (Express) POST endpoint that accepts an array of URLs, retrieves, and uploads the file faster, optimally and efficiently to an S3 bucket.
 
 ## Setup
 
